@@ -1,0 +1,37 @@
+
+
+
+
+body {
+background-color: lightblue;
+
+}
+h2 {
+	font: serif;
+	font-size: medium;
+}
+
+
+
+img {
+	
+	width: 400px;
+	height: 500px;
+}
+
+figure {
+	width: 400px;
+	height: 500px;
+	border-style: dotted;
+	border-color: black;
+	border-width: 5px;
+	padding: 15px;
+	padding-bottom: 40px;
+	
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+ 	
+
+
+}
